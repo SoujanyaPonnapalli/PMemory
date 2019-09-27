@@ -8,4 +8,4 @@ This repo summarizes the recent research on persistent memory data structures.
 
 **SOSP-2019**
 
-  - RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes 
+  - [RECIPE: Converting Concurrent DRAM Indexes to Persistent-Memory Indexes](https://github.com/SoujanyaPonnapalli/PMemory/blob/master/RECIPE.md) 
