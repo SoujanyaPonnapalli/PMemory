@@ -1,6 +1,7 @@
 ## Verification
 
 *Persistence of Memory. It is finally here!*
+
 This repo summarizes the recent research on persistent memory data structures.
 
 # Repository Contents
