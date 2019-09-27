@@ -1,6 +1,6 @@
 # Peristent Memory
 
-*Persistence of Memory. It is finally here!*
+*It is finally here! Time for the persistence of memory.*
 
 This repo summarizes the recent research on persistent memory data structures.
 
